@@ -1,0 +1,11 @@
+Savol | Variant 1 | Variant 2 | Variant 3 | Variant 4 | To'g'ri javob
+2+2=? | 3 | 4 | 5 | 6 | 4
+O'zbekistonning poytaxti? | Toshkent | Samarqand | Buxoro | Xiva | Toshkent
+1 kg da necha gramm bor? | 100 | 500 | 1000 | 10000 | 1000
+HTML nima? | Programming language | Markup language | Database | Framework | Markup language
+JavaScript qaysi yilda yaratilgan? | 1990 | 1995 | 2000 | 2005 | 1995
+CSS ning to'liq nomi? | Computer Style Sheets | Cascading Style Sheets | Creative Style Sheets | Colored Style Sheets | Cascading Style Sheets
+HTTP qanday protokol? | File transfer | Email | Web communication | Database | Web communication
+Python qaysi tur til? | Compiled | Interpreted | Assembly | Machine | Interpreted
+SQL nima uchun ishlatiladi? | Web design | Database management | Graphics | Animation | Database management
+React nima? | Database | Library | Programming language | Operating system | Library
